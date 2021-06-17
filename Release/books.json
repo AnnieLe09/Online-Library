@@ -1,0 +1,6 @@
+[{"ID":"A01", "name":"Introduction to Python Programming", "author": "Wiki", "year": 2021,"type":"technology" },
+{"ID":"A02", "name":"Introduction to Spring MVC", "author": "19120447", "year": 2021, "type":"technology" },
+{"ID":"A03", "name":"The Adventures of Aladdin", "author": "Chris Sanders", "year": 1992, "type":"novel" },
+{"ID":"A04", "name":"Iron Man", "author": "Ted Hughes", "year":1960, "type":"fiction"},
+{"ID":"A05", "name":"The Heart of Darkness","author": "Joseph Conrad", "year": 1899, "type":"novel"},
+{"ID":"A06", "name":"The 4 Moons of Death","author": "Wiki", "year":1970, "type":"fiction" }]
